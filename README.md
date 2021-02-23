@@ -120,7 +120,7 @@ p {
 </style>
 </head>
 <body>
-<h1>Responsive Layout</h1>
+<h1>Our menu</h1>
 
 <div class="row">
   <div class="col-lg-3 col-md-6"><p>Beef</p></div>
