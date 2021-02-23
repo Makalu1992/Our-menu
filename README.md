@@ -1,4 +1,3 @@
-# moduleprograming
 <!DOCTYPE html>
 <html>
 <head>
@@ -128,11 +127,6 @@ p {
   <div class="col-lg-3 col-md-6"><p>Item 1</p></div>
   <div class="col-lg-3 col-md-6"><p>Item 2</p></div>
   <div class="col-lg-3 col-md-6"><p>Item 3</p></div>
-  <div class="col-lg-3 col-md-6"><p>Item 4</p></div>
-  <div class="col-lg-3 col-md-6"><p>Item 5</p></div>
-  <div class="col-lg-3 col-md-6"><p>Item 6</p></div>
-  <div class="col-lg-3 col-md-6"><p>Item 7</p></div>
-  <div class="col-lg-3 col-md-6"><p>Item 8</p></div>
 </div>
 
 </body>
