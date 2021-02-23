@@ -123,7 +123,6 @@ p {
 
 <div class="row">
   <div class="col-lg-3 col-md-6"><p>Beef</p>
-    <p>lorem ipsum</p></div>
   <div class="col-lg-3 col-md-6"><p>Chicken</p></div>
   <div class="col-lg-3 col-md-6"><p>Sushi</p></div>
 </div>
